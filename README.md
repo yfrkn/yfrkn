@@ -34,7 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="BLENDER" **alt="BLENDER" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" **alt="CANVA" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="CHROME" **alt="CHROME" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/discordjs" title="DISCORDJS" **alt="DISCORDJS" width="DISCORDJS" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original-wordmark.svg" title="DISCORDJS" **alt="DISCORDJS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="FILEZILLA" **alt="FILEZILLA" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" title="FIREFOX" **alt="FIREFOX" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="FLASK" **alt="FLASK" width="40" height="40"/>
