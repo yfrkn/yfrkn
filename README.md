@@ -28,19 +28,22 @@
   
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="A" alt="A" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="70" height="70"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="ARDUINO" **alt="ARDUINO" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original-wordmark.svg" title="BLENDER" **alt="BLENDER" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="CANVA" **alt="CANVA" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original-wordmark.svg" title="CHROME" **alt="CHROME" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original-wordmark.svg" title="DISCORDJS" **alt="DISCORDJS" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain-wordmark.svg" title="FILEZILLA" **alt="FILEZILLA" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original-wordmark.svg" title="FIREFOX" **alt="FIREFOX" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg" title="FLASK" **alt="FLASK" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GITHUB" **alt="GITHUB" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg" title="A" alt="A" width="60" height="60"/>&nbsp;
+  
 </div>
   
 ### :fire: My Stats :
