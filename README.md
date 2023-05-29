@@ -22,15 +22,19 @@
   <img src="https://komarev.com/ghpvc/?username=yfrkn&style=flat-square&color=blue" alt=""/>
   
   <hr>
-</div>
+
 
 ### :technologist: About Me :
+  
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
+  
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yfrkn&theme=dark)](https://git.io/streak-stats)
+  
+</div>
   
 
