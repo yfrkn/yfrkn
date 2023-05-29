@@ -37,6 +37,8 @@
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yfrkn&show_icons=true&theme=codeSTACKr)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yfrkn&layout=compact&theme=codeSTACKr)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
   
 
