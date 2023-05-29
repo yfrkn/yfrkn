@@ -35,7 +35,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yfrkn&theme=dark)](https://git.io/streak-stats)
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yfrkn&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yfrkn&show_icons=true&theme=codeSTACKr)
 
 </div>
   
