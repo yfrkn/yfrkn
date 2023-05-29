@@ -21,6 +21,8 @@
   
   <img src="https://komarev.com/ghpvc/?username=yfrkn&style=flat-square&color=blue" alt=""/>
   
+  <hr>
+  
   ### :technologist: About Me :
   
 </div>
